@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Second year Synthetic Biology PhD student at the University of Bristol.
 
 ### More Information
 
