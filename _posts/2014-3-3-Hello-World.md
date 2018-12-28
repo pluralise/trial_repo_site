@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: How to make a website / blog on github
 published: true
 ---
 
